@@ -19,7 +19,7 @@ Professors and researchers：
 
 - **[Thomas Blaschke](https://uni-salzburg.elsevierpure.com/en/persons/thomas-blaschke-4)**: GIScience: Theory and Concepts, Lectures in GIScience, Orientation and Introduction;
 - **[Josef Strobl](http://jstrobl.zgis.net)**: Geographical Information Science and Systems. Remote Sensing and Image Processing. Spatial Analysis. Digital Terrain Models. Spatial modelling of renewable energy potentials. Spatial Statistics and Geostatistics. Modelling and Simulation of dynamic processes. Open Systems architectures, interfaces, metadata and catalogues – SDI. Location based services. Internet-based distance education. Active learning in online environments and design of interactive learning materials. Learning with Geoinformation – from spatial awareness to thinking to citizenship;
-- **[Stefan Lang](https://www.plus.ac.at/geoinformatik/department/team/lang/?lang=en)**: Object-based image analysis (OBIA) | Copernicus | systems thinking | multi-scale and multi-dimensional spatial analysis | policy and decision support;
+- **[Stefan Lang](https://www.plus.ac.at/geoinformatik/department/team/lang/?lang=en)**: Object-based image analysis (OBIA) . Copernicus . systems thinking . multi-scale and multi-dimensional spatial analysis . policy and decision support;
 
 ### University of Vienna
 
